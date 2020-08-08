@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oskrs111/node-mqtt2telegram.git"
+  },
   "author": "Oscar Sanz Llopis",
   "license": "MIT",
   "dependencies": {
